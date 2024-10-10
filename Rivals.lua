@@ -3,6 +3,7 @@ getgenv().BindRivals = {
     ['Rivals'] = {
         ['SilentAim'] = true,
         ['Config'] = {
+            ['WallBang'] = false,
             ['AntiKatana'] = false,
             ['Update_Resolving'] = true,
             ['Prediction'] = 0.01,
@@ -23,6 +24,7 @@ getgenv().BindRivals = {
                     ['Speed'] = 1,
                 },
                 ['Extra'] = {
+                    ['Automatic Detection'] = true
                     ['NoRecoil'] = false,
                     ['RapidFire'] = false,
                     ['FieldOfView'] = {
