@@ -18,6 +18,7 @@ Bladeball = {
     ['Mode'] = 'Auto'; --// Fast, Slow, Optimal, Perfect
     ['Advance'] = {
         ['Visuals'] = {
+            ['Balltrail'] = false,
             ['Ball'] = false;
             ['XYZ'] = false;
             ['Xyz'] = {
